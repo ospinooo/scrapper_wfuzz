@@ -1,17 +1,4 @@
-
-- [Práctica Final: Wfuzz](#pr%c3%a1ctica-final-wfuzz)
-  - [Web Fuzzer](#web-fuzzer)
-    - [Questions](#questions)
-      - [What is Wfuzz?](#what-is-wfuzz)
-      - [What can be used for?](#what-can-be-used-for)
-      - [What is Fuzzing?](#what-is-fuzzing)
-      - [When is a fuzzing tool efective?](#when-is-a-fuzzing-tool-efective)
-- [Wfuzz](#wfuzz)
-  - [Programas Utilizados](#programas-utilizados)
-  - [Escenarios Montados](#escenarios-montados)
-  - [Bibliografía](#bibliograf%c3%ada)
-
-# Práctica Final: Wfuzz
+# Wfuzz
 
 ## Web Fuzzer
 
@@ -41,7 +28,7 @@ Fuzzing or fuzz testing is an **automated software testing technique** that invo
 An effective fuzzer generates semi-valid inputs that are "valid enough" in that they are not directly rejected by the parser, but do create unexpected behaviors deeper in the program and are "invalid enough" to expose corner cases that have not been properly dealt with. 
 
 
-# Wfuzz
+# More explained info
 
 Wfuzz has been created to facilitate the task in web applications assessments and it is based on a simple concept: `it replaces any reference to the FUZZ keyword by the value of a given payload`.
 
