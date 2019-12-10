@@ -59,16 +59,6 @@ Wfuzz is more than a web content scanner:
 
 It was created to facilitate the task in web applications assessments, it's a tool by **pentesters** for pentesters ;)
 
-## Programas Utilizados
-
-
-## Escenarios Montados
-
-Ideas:
-- [Basico] Probar con webs aleatoriamente.
-- [Avanzado] Scrapper tester. -> Fuzz webs una a una y guardar los datos resultantes y analizarlos.
-  - Así el scrapper vá adquiriendo mas y mas webs.
-
 
 ## Bibliografía
 
@@ -77,3 +67,4 @@ Ideas:
 - [American fuzzy lop](https://en.wikipedia.org/wiki/American_fuzzy_lop_(fuzzer))
 - [WFuzz Code - Opensource tool](https://github.com/xmendez/wfuzz/)
 - [WFuzz Documentation](https://wfuzz.readthedocs.io/en/latest/)
+- [SHODAN](https://www.shodan.io/)
