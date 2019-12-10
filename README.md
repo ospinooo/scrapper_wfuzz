@@ -1,4 +1,4 @@
-# Wfuzz
+# Scrapper Wfuzz
 
 ## Web Fuzzer
 
