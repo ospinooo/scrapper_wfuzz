@@ -1,0 +1,7 @@
+wfuzz
+shodan
+bs4
+
+# DEV
+pycodestyle
+autopep8
